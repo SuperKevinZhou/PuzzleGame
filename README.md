@@ -3,7 +3,7 @@ DO THIS PUZZLE!
 
 ## Something important
 > [!NOTE]
-> We don't suggest you open file in your browser, github.dev, Windows notepad (especially UWP notepad).
+> We don't suggest you open file in your browser, github.dev, or Windows notepad (especially UWP notepad).
 >
 > For a better performance, we suggest you open file in **Sublime Text**.
 >
